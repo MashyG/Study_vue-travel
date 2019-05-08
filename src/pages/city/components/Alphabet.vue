@@ -4,7 +4,7 @@
         v-for="item of letters"
         :key="item"
         :ref="item"
-        @touchstart.prevent="handleTouchStart"
+        @touchstart="handleTouchStart"
         @touchmove="handleTouchMove"
         @touchend="handleTouchEnd"
         @click="handleLetterClick"
