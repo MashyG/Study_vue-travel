@@ -1,0 +1,76 @@
+{
+    "ret": true,
+    "data": {
+      "sightName": "大连圣亚海洋世界(AAAA景区)",
+      "bannerImg": "http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_600x330_bf9c4904.jpg",
+      "gallaryImgs": [
+        {
+          "id": "001",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/3b/3bd311262ee06d8c90.img.jpg_350x240_102ca3d2.jpg"
+        }, {
+          "id": "002",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/452bd2d46925768793ff15a853899211.jpg_350x240_e61b5db4.jpg"
+        }, {
+          "id": "003",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/29/4bed2643b6a64212d4b8b5713344e56c.jpg_350x240_a655a654.jpg"
+        }, {
+          "id": "004",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/29/b5d02d4967e16b8cbc40f1dbd8186e6f.jpg_350x240_c7286aaf.jpg"
+        }, {
+          "id": "005",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/452bd2d46925768793ff15a853899211.jpg_350x240_e61b5db4.jpg"
+        }, {
+          "id": "006",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/29/4bed2643b6a64212d4b8b5713344e56c.jpg_350x240_a655a654.jpg"
+        }, {
+          "id": "007",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/29/b5d02d4967e16b8cbc40f1dbd8186e6f.jpg_350x240_c7286aaf.jpg"
+        }, {
+          "id": "008",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/452bd2d46925768793ff15a853899211.jpg_350x240_e61b5db4.jpg"
+        }, {
+          "id": "009",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/29/4bed2643b6a64212d4b8b5713344e56c.jpg_350x240_a655a654.jpg"
+        }, {
+          "id": "010",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/29/b5d02d4967e16b8cbc40f1dbd8186e6f.jpg_350x240_c7286aaf.jpg"
+        }, {
+          "id": "011",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/452bd2d46925768793ff15a853899211.jpg_350x240_e61b5db4.jpg"
+        }, {
+          "id": "012",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/29/4bed2643b6a64212d4b8b5713344e56c.jpg_350x240_a655a654.jpg"
+        }, {
+          "id": "013",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/29/b5d02d4967e16b8cbc40f1dbd8186e6f.jpg_350x240_c7286aaf.jpg"
+        }, {
+          "id": "014",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/452bd2d46925768793ff15a853899211.jpg_350x240_e61b5db4.jpg"
+        }, {
+          "id": "015",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/29/4bed2643b6a64212d4b8b5713344e56c.jpg_350x240_a655a654.jpg"
+        }, {
+          "id": "016",
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/29/b5d02d4967e16b8cbc40f1dbd8186e6f.jpg_350x240_c7286aaf.jpg"
+        }
+      ],
+      "categoryList": [{
+          "title": "成人票",
+          "children": [{
+            "title": "成人三馆联票",
+            "children": [{
+              "title": "成人三馆联票 - 某一连锁店销售"
+            }]
+          },{
+            "title": "成人五馆联票"
+          }]
+        }, {
+          "title": "学生票"
+        }, {
+          "title": "儿童票"
+        }, {
+          "title": "特惠票"
+        }]
+    }
+  }
+  
